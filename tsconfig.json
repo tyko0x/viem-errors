@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/strictest/tsconfig.json",
+  "include": ["src"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext"
+  }
+}

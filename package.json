@@ -1,0 +1,19 @@
+{
+  "name": "viem-errors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "viem-2.11": "npm:viem@2.11",
+    "viem-2.7": "npm:viem@2.7"
+  },
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.5"
+  }
+}
